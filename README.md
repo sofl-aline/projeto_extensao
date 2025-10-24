@@ -9,7 +9,7 @@ Este projeto de extensão visa elaborar e entregar um novo site para o projeto T
 Aqui são apresentadas toda a documentação que foi construída no período do projeto.
 
 **Link para os documentos:**
-- [Link do site](URL_DA_PAUTA_AQUI)
+- [Link do site](https://turmalinas.tech/)
 - [Protótipo do Projeto](URL_DO_PROTOTIPO_AQUI)
 - [Pauta das Reuniões](https://docs.google.com/document/d/1oPIKqmlM_pg4VW1okTrj2ARGHD2XcYCu/edit?usp=sharing&ouid=114104350430986363392&rtpof=true&sd=true)
 - [Documentação do Figma](URL_DA_PAUTA_AQUI)
