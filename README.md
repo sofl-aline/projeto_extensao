@@ -9,21 +9,18 @@ Este projeto de extensão visa elaborar e entregar um novo site para o projeto T
 Aqui são apresentadas toda a documentação que foi construída no período do projeto.
 
 **Link para os documentos:**
-- [Link do site](https://turmalinas.tech/)
-- [Protótipo do Projeto](URL_DO_PROTOTIPO_AQUI)
+- [Link do site antigo](https://turmalinas.tech/)
+- [Protótipo do Projeto](https://www.figma.com/proto/XuKc5Mj4nSRlVelrfG8ImU/Turmalinas?page-id=8%3A2&node-id=33-2621&p=f&viewport=2954%2C1290%2C0.53&t=AXwrr7vKkloD22WS-1&scaling=scale-down&content-scaling=fixed)
 - [Pauta das Reuniões](https://docs.google.com/document/d/1oPIKqmlM_pg4VW1okTrj2ARGHD2XcYCu/edit?usp=sharing&ouid=114104350430986363392&rtpof=true&sd=true)
-- [Documentação do Figma](URL_DA_PAUTA_AQUI)
-
-## Tecnologias Utilizadas
-
-### Linguagens
-- **HTML:**
-- **JavaScript:**
-- **CSS:**
-
-
+- [Documentação do Figma](https://www.figma.com/board/U27P29PdHwvR6jYp4T7sng/Turmalinas-Tech?node-id=3-3694&t=msxYB13YGDTzGw0I-1)
+- [Link do Design e Style guide](https://www.figma.com/design/XuKc5Mj4nSRlVelrfG8ImU/Turmalinas?node-id=8-2&t=bZoTuUgnmhHMFxKj-1)
+  
+## Metodologias Utilizadas
+- Análise Heurística
+- Atomic Design
+- Kanban e Scrum
+  
 ### Ferramentas
-- **VSCode:**
 - **GitHub:**
 - **Trello:**
 - **Figma:**
