@@ -40,7 +40,7 @@ Aqui será apresentado todos os passos necessários para a utilização do proje
 
 ## Equipe
 
-- Aline Silva
-- Amanda Diniz
-- Camilly Beatriz
-- Maria Isabelly
+- [Aline Silva](https://github.com/sofl-aline)
+- [Amanda Diniz](https://github.com/amandadguedesp) 
+- [Camilly Beatriz](https://github.com/camillybeatrizz)
+- [Maria Isabelly](https://github.com/mariaisabellys)
